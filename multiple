@@ -1,0 +1,10 @@
+r = int(input("Enter code: "))
+x = 0
+y = 0
+while x < 9:
+x += 1
+  for x in range(9):
+    y + 1
+    print(y, "*", x, "=", x*y)
+    
+    
